@@ -31,7 +31,10 @@ You will need a set of each below for each [x] you make.
 
 ## Change Log
 
-- v1.0: Version 1 Release
+- v0.2: Private Beta Version 2
+    * Adjusted rear hole placement to raise up by 0.5mm, which will raise the sear cage by 0.5mm. This should address the trigger not resetting when slide is pulled rear-and-upwards
+
+- v0.1: Private Beta Version 1
     * Initial commit into advanced evaluation
 
 ## License
