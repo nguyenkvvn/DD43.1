@@ -38,4 +38,4 @@ You will need a set of each below for each [x] you make.
     * Initial commit into advanced evaluation
 
 ## License
-Licensed uner GNU AGPLv3
+No license selected.
